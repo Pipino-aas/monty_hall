@@ -1,1 +1,3 @@
-# monty_hall
+# Problema de Monty Hall
+
+Pequeña y alegre simulación.
